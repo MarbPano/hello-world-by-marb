@@ -107,7 +107,7 @@ while 1:
         
    
 
-also trying to understand what is happening 
+ 
 
 
 trying to understand what is happening. 
