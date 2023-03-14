@@ -104,5 +104,5 @@ while 1:
         print("Only 1, 2, 3, 4")
         continue 
 
-    
+  also trying to understand what is happening.   
  
