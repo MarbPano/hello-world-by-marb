@@ -103,6 +103,10 @@ while 1:
     else:#if the question above does not meet conditions. It continues back again
         print("Only 1, 2, 3, 4")
         continue 
+        
+        
+   
 
+trying to understand what is happening. 
     
  
